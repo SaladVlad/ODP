@@ -1,0 +1,7 @@
+{ 
+    "ime":"Jovan", 
+    "prezime":"Jovanovic",
+    "godine" : 22,
+    "student" : true,
+    "slusa_predmete" : ["ODP", "Virtuelizacija", "Veb1", "HCI", "SCADA"]
+}
