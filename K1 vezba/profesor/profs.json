@@ -1,0 +1,44 @@
+[
+  {
+    "jmbg": "1",
+    "ime": "KUPUSINAC",
+    "prezime": "KRASTAVCIC",
+    "datum_izbora": "1389-10-09",
+    "predmeti": ["Algebra", "Analiza", "Diskretna matematika"]
+  },
+  {
+    "jmbg": "2",
+    "ime": "Rade",
+    "prezime": "Doroslovacki",
+    "datum_izbora": "1214-01-07",
+    "predmeti": ["Algebra", "Osnove elektrotehnike", "Teorija zivota"]
+  },
+  {
+    "jmbg": "3",
+    "ime": "John",
+    "prezime": "Doe",
+    "datum_izbora": "2005-05-15",
+    "predmeti": ["Physics", "Mathematics"]
+  },
+  {
+    "jmbg": "4",
+    "ime": "Jane",
+    "prezime": "Smith",
+    "datum_izbora": "2012-12-20",
+    "predmeti": ["Chemistry", "Biology"]
+  },
+  {
+    "jmbg": "5",
+    "ime": "Alice",
+    "prezime": "Johnson",
+    "datum_izbora": "2018-08-25",
+    "predmeti": ["English", "Literature"]
+  },
+  {
+    "jmbg": "6",
+    "ime": "Bob",
+    "prezime": "Williams",
+    "datum_izbora": "2010-03-10",
+    "predmeti": ["History", "Geography"]
+  }
+]
